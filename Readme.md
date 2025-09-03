@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/.../LOGO.png](https://media.licdn.com/dms/image/v2/D560BAQHHPsOfYutH1Q/company-logo_200_200/company-logo_200_200/0/1736278463352?e=2147483647&v=beta&t=DWuI-0F36Ks6AUjGMSSxqIRLvL-Ph-pL2WCEOBio14U](https://instagram.fdel8-1.fna.fbcdn.net/v/t51.2885-19/472283323_554642184228660_8378997086703333278_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=instagram.fdel8-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QFgrZnC2E_7BTDe3Ok0isgilNN7G3zXwLLAEt4n2EA3lZ5-ckuaRDKpeYW1lk66uMw&_nc_ohc=Hbc8LEpiJbwQ7kNvwFNbTsn&_nc_gid=F0i4PvQcgHAvsLZuyHUW_g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Afan0CQI1Wx4PXzbO8clm4Hr19_a7QsRfm3jOAcjGjNHJg&oe=68BDFFF8&_nc_sid=8b3546)" alt="Geek Room Logo" width="150"/>
+  <img src="./LOGO.png" alt="Geek Room Logo" width="150"/>
 </p>
 
 <h1 align="center">Welcome to Geek Room 🚀</h1>
